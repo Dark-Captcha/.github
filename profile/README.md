@@ -4,7 +4,7 @@
 - Everything is open-source.
 - Feel free to contribute.
 
-# Note
+# About me
 
 - I like helping people because I love it.
 - I can't make it perfect, but it is definitely good code.
