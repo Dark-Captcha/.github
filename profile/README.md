@@ -12,7 +12,8 @@
 
 # Contact
 
-- Telegram: [cv2master](https://t.me/cv2master)
+- Telegram: [@cv2master](https://t.me/cv2master).
+- Emrovsky (he is pro btw): [@Emrovsky](https://t.me/Emrovsky).
 
 # AI Rules
 
