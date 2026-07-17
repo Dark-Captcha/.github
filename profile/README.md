@@ -17,8 +17,6 @@
 
 # AI Rules
 
-- AI is a tool, not your world.
-- Code is not a program, program live inside your head.
-- Vibe coding `<<` Copy-paste engineer.
+- AI code won't be allow here.
 
 ##### @Switch is ~~femboy~~ sigma?
